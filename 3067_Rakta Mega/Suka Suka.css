@@ -1,0 +1,64 @@
+.h1{
+	text-align: 70px;
+}
+body{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 2, 0.5);
+	padding: 20px;
+	width: 270px;
+	size: 35px;*/
+	/*border: none;*/
+	color: blue;
+	margin: 0;
+	padding: 0;
+	background: url(bg3.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+.awal{
+	border: none;
+	outline: none;
+	background: transparent;
+	/*position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	width: 270px;
+	size: 35px;*/
+}
+/*.pilih {
+/*	position: absolute;
+	top: 66.4%;*/
+/*	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	width: 270px;*/
+}
+/*.centang {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	width: 270px;*//**/
+}
+.ok{
+	text-align: 80%;
+/*	position: center;*/
+	top: 50%;
+	left: 50%;
+/*	transform: translate(-50%, -50%);
+	background: rgba(0, 0, 0, 0.5);*/
+	padding: 20px;
+	width: 270px;
+}
