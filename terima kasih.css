@@ -1,0 +1,33 @@
+body{
+	background-color: #DFDDDD;
+}
+h1{
+	font-size: 50px;
+}
+.Terima{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 150px;
+
+}
+.Pesanan{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 10px;
+}
+.ok input[type="submit"]{
+	background-color: black;
+	border: 2px solid black;
+/*	border-radius: 20px;*/
+	color: white;
+	text-align: center;
+	width: 100px;
+	height: 40px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.ok{
+	position:absolute;
+	margin-left: 620px;
+	margin-top: 200px;
+}

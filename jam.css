@@ -1,0 +1,91 @@
+body{
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+h1{
+	font-size: 50px;
+}
+
+.header{
+	position: absolute;
+	margin-left: 700px;
+	top: 50px;
+
+}
+
+.right-menu{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	margin-left: 450px;
+}
+
+.right-menu li{
+	display: inline-block;
+	margin : 5px;
+}
+
+li a{
+	text-decoration: none;
+	color: black;
+}
+
+img{
+	margin-left: 225px;
+	width: 350px;
+	height: 500px;
+}
+
+.text{
+	margin-left: 650px;
+	top: 115px;
+	position: absolute;
+	font-size: 15px;
+
+}
+
+.submit{
+	position: absolute;
+	margin-top: 280px;
+	margin-left: 100px;
+	height: 30px;
+	width: 100px;
+}
+
+.text2{
+	margin-top: 320px;
+	margin-left: 650px;
+	top: 115px;
+	position: absolute;
+	font-size: 15px;
+}
+
+.ukuran{
+	background: rgba(255, 255, 255, 1);
+	width: 300px;
+	height: 300px;
+	padding-left: 20px;
+	padding-top: 45px;
+	position: absolute;
+	margin-left: 1000px;
+	top: 150px;
+	font-weight: bold;
+}
+
+.ukuran input{
+	background-color: black;
+	border: none;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.PESAN{
+	position: relative;
+	top: 10px;
+	left: 65px;
+	width: 150px;
+	height: 30px;
+}

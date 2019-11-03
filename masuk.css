@@ -1,0 +1,82 @@
+body{
+	background-color: #DFDDDD;
+}
+
+h1{
+	font-size: 50px;
+}
+a{
+	text-decoration: none;
+}
+
+.navbar ul{
+	position: absolute;
+	font-size: 20px;
+	top: 9px;
+	left: 1000px;
+	width: 100%;
+	display: flex;
+	list-style-type: none;
+}
+
+.navbar li a{
+	text-decoration: none;
+	margin-left: 50px;
+}
+
+.home a{
+	color: black;
+}
+
+.masuk a{
+	color: #E616D2;
+}
+
+.kotak{
+	position: relative;
+	left: 500px;
+	top: 100px;
+	width: 300px;
+	height: 250px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 15px;
+}
+
+.form{
+	position: relative;
+	top: 40px;
+	left: 20px;
+}
+
+.form input[type=text], .form input[type=password]{
+	position: relative;
+	background-color: transparent;
+	border: 1px solid #707070;
+	width: 230px;
+	height: 10px;
+	padding: 10px;
+}
+
+.form input[type=submit]{
+	background-color: black;
+	border-radius: 10px;
+	border: none;
+	color: white;
+	width: 100px;
+	height: 30px;
+	top: 30px;
+	left: 80px;
+	font-weight: bold;
+	position: relative;
+}
+
+.txt{
+	position: absolute;
+	top: 485px;
+	left: 540px;
+}
+
+.txt a{
+	color: red;
+}

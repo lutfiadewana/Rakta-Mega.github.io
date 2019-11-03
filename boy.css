@@ -1,0 +1,228 @@
+body{
+	background-size: 100%;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+h1{
+	font-size: 50px;
+}
+
+.header{
+	position: absolute;
+	margin-left: 500px;
+	top: 50px;
+
+}
+
+.right-menu{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.right-menu li{
+	display: inline;
+	margin : 5px;
+}
+
+li a{
+	text-decoration: none;
+	color: black;
+}
+
+.search{
+	position: absolute;
+	margin-top: -80px;
+	margin-left: 1100px;
+}
+
+.gambar1{
+	position: absolute;	
+	margin-left: 70px;
+	width: 170px;
+}
+
+.gambar2{
+	position: absolute;	
+	margin-left: 320px;
+	width: 170px;
+}
+
+.gambar3{
+	position: absolute;	
+	margin-left: 570px;
+	width: 170px;
+}
+
+.gambar4{
+	position: absolute;	
+	margin-left: 830px;
+	width: 170px;
+}
+
+.gambar5{
+	position: absolute;	
+	margin-left: 1080px;
+	width: 170px;
+}
+
+.gambar6{
+	position: absolute;	
+	margin-left: 70px;
+	margin-top: 260px;
+	width: 170px;
+}
+
+.gambar7{
+	position: absolute;	
+	margin-left: 320px;
+	margin-top: 260px;
+	width: 170px;
+}
+
+.gambar8{
+	position: absolute;	
+	margin-left: 570px;
+	margin-top: 260px;
+	width: 170px;
+}
+
+.gambar9{
+	position: absolute;	
+	margin-left: 830px;
+	margin-top: 260px;
+	width: 170px;
+}
+
+.gambar10{
+	position: absolute;	
+	margin-left: 1080px;
+	margin-top: 260px;
+	width: 170px;
+}
+
+.text1{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 170px;
+	margin-left: 10px;
+}
+
+.text1-lagi{
+	position: relative;
+	left: 157px;
+}
+
+.text2{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 170px;
+	margin-left: 360px;
+}
+
+.text2-lagi{
+	position: relative;
+	left: 55px;
+}
+
+.text3{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 170px;
+	margin-left: 516px;
+}
+
+.text3-lagi{
+	position: relative;
+	left: 150px;
+}
+
+.text4{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 170px;
+	margin-left: 795px;
+}
+
+.text4-lagi{
+	position: relative;
+	left: 130px;
+}
+
+.text5{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 170px;
+	margin-left: 1062px;
+}
+
+.text5-lagi{
+	position: relative;
+	left: 122px;
+}
+
+.text6{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 430px;
+	margin-left: 96px;
+}
+
+.text6-lagi{
+	position: relative;
+	left: 70px;
+}
+
+.text7{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 430px;
+	margin-left: 416px;
+}
+
+.text7-lagi{
+	position: relative;
+	left: 1px;
+}
+
+.text8{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 430px;
+	margin-left: 589px;
+}
+
+.text8-lagi{
+	position: relative;
+	left: 78px;
+}
+
+.text9{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 430px;
+	margin-left: 820px;
+}
+
+.text9-lagi{
+	position: relative;
+	left: 112px;
+}
+
+.text10{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 430px;
+	margin-left: 1090px;
+}
+
+.text10-lagi{
+	position: relative;
+	left: 85px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}

@@ -1,0 +1,52 @@
+h1{
+	font-size: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.navbar ul{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	top: 9px;
+	left: 500px;
+	width: 100%;
+	display: flex;
+	list-style-type: none;
+}
+
+.navbar li a{
+	text-decoration: none;
+	color: black;
+	margin-left: 50px;
+}
+
+.navbar .Kategori a{
+	color: #E616D2;
+}
+
+.boy{
+	position: relative;
+	top: 240px;
+	font-size: 100px;
+	color: white;
+	position: relative;
+	writing-mode: vertical-lr;
+	text-orientation: mixed;
+	font-weight: bold;
+}
+
+.girl{
+	position: relative;
+	top: -320px;
+	left: 1230px;
+	font-size: 100px;
+	color: white;
+	position: relative;
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	font-weight: bold;
+}

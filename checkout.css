@@ -1,0 +1,59 @@
+body{
+	background-color: #DFDDDD
+}
+
+
+h1{
+	font-size: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.navbar ul{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	top: 50px;
+	left: 1000px;
+	display: flex;
+	list-style-type: none;
+}
+
+.navbar li a{
+	text-decoration: none;
+	color: black;
+	margin-left: 50px;
+}
+
+.navbar .checkout a{
+	color: #E616D2;
+}
+
+.Alamat{
+	position: relative;
+	background-color: white;
+	width: 1000px;
+	height: 250px;
+}
+
+.Alamat input[type=text]{
+	border: none;
+	width: 97%;
+	height: 70%;
+	padding: 10px;
+	text-align: top;
+}
+
+.button{
+	position: relative;
+	background-color: red;
+	width: 100px;
+	height: 30px;
+	border: none;
+	left: 1200px;
+	top: 200px;
+	font-weight: bold;
+}
